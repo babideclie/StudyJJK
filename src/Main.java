@@ -25,5 +25,7 @@ public class Main {
         }
 
         scanner.close();
+
+        /* if/else é usado para estruturas menores */
     }
 }
